@@ -33,4 +33,3 @@ Tutorial I followed: https://medium.freecodecamp.org/how-to-scrape-websites-with
 
 5. While it's running on the command line, it should fetch the current prices for Intel stocks and save it to a table in the same folder that you ran the program out of. If you can't find it, search for index.csv in your file explorer. For easy access, I would suggest creating a shortcut on your desktop to the table.
 
-Now you should be able to run this without any issues! Woo!
