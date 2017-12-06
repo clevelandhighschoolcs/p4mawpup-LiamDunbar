@@ -2,7 +2,7 @@
 
 This project utilizes Python, so if you haven't already, install the most recent version of Python from here: https://www.python.org/downloads/
 
-This code should grab the most recent stock prices for Intel every 10 seconds, and then save all fetched data in a table.
+*_This code should grab the most recent stock prices for Intel every 10 seconds, and then save all fetched data in a table._*
 
 Scraped Site: https://www.investopedia.com/markets/stocks/intc/?ad=dirN&qo=investopediaSiteSearch&qsrc=0&o=40186
 
