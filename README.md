@@ -8,7 +8,7 @@ Scraped Site: https://www.investopedia.com/markets/stocks/intc/?ad=dirN&qo=inves
 
 Tutorial I followed: https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
 
-*The setup ALSO requires you to install beautifulsoup, which can be very unreliable. Didn't realise this after I finished the project, so just as a warning beautifulsoup might not install correctly on your machine, especially if its one from school. I'm not sure what the issue is, but if I find a resolution I'll post it ASAP*
+*The setup ALSO requires you to install beautifulsoup, which can be very unreliable. Didn't realise this after I finished the project, so just as a warning beautifulsoup might not install correctly on your machine, especially if its one from school. I'm not sure what the issue is, but if I find a resolution I'll post it ASAP. For now, just run the program without beautifulsoup. You'll get some error code, but I think it still prints the correct information above all the error code. Sorry for the inconvenience!*
 # Setup
 1. Open your command line (command key + r, then type in cmd and press enter)
 
