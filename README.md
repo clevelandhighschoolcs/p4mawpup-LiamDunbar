@@ -11,7 +11,7 @@ Tutorial I followed: https://medium.freecodecamp.org/how-to-scrape-websites-with
 # Setup
 1. Open your command line (command key + r, then type in cmd and press enter)
 
-2. Activate your virtual environment 
+2. Activate your virtual environment (SKIP IF YOU ALREADY HAVE ONE READY)
   - Navigate to your python installation folder and pip install virtual environment
   
   ```
@@ -20,7 +20,7 @@ Tutorial I followed: https://medium.freecodecamp.org/how-to-scrape-websites-with
   cd C:\Users\"Username"\Documents\
   mkdir Python
   cd Python
-  C:\Python27\Scripts\virtualenv.exe -p C:\Python27\python.exe
+  C:\Python27\Scripts\virtualenv.exe -p C:\Python27\python.exe .lpvenv
   .lpvenv\Scripts\activate
   ```
   
