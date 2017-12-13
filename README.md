@@ -29,7 +29,6 @@ Tutorial I followed: https://medium.freecodecamp.org/how-to-scrape-websites-with
 3. Install Beautifulsoup from your command line
   ```
   pip install beautifulsoup4
-  
   ```
 4. Place web-scraperFINAL.py in your new Python folder under Documents, then navigate to that same folder inside the command line. Run the file by typing in the name and hitting enter, or just tab until you get the right file.
 
