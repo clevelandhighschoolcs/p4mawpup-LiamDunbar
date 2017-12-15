@@ -1,6 +1,13 @@
 # import libraries
 import urllib2
-from bs4 import BeautifulSoup
+
+#this code checks to make sure Beautiful Soup functions as planned. If not, the program stops instead of giving the user an error
+try:
+	from bs4 import BeautifulSoup
+except Exception:
+	print "Unless you have BeautifulSoup downloaded, this program won't function correctly. Use 'pip install BeautifulSoup4' to download it." 
+	quit()
+
 import csv
 from datetime import datetime
 import time
