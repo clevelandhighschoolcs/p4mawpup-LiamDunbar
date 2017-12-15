@@ -15,7 +15,7 @@ import re
 import sys
 
 def main():
-    time1 = raw_input("How long de you want to search for in seconds? ")
+    time1 = raw_input("How long do you want to search for in seconds? ")
     wait = raw_input("How long do you want to wait between searches in seconds? ")
     time2 = float(time1)
     while time2 > 1:
