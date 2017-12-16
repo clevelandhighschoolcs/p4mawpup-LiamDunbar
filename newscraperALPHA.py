@@ -11,10 +11,10 @@ import time
 import re
 import sys
 
-accountsid = 'AC0be97adffcb60200330a039a8a886fb6'
-authtoken = '5eaa45f4c0ecca4f71947fb32b684743'
-twiliophonenumber = '+19713402015'
-myphonenumber = '+15035770930'
+accountsid = ''
+authtoken = ''
+twiliophonenumber = ''
+myphonenumber = ''
 
 try:
 	from bs4 import BeautifulSoup
